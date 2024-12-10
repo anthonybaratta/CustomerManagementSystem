@@ -41,3 +41,13 @@ Use the GUI to add, view, edit, and delete customer and actor data.
 The interface is designed to guide users through each operation with clear instructions and prompts.
 
 Handle Errors Gracefully: Encountered issues, such as attempting to delete records linked by foreign keys, are clearly communicated to the user with helpful error messages.
+
+Screenshots:
+
+![login](https://github.com/user-attachments/assets/0d177ae1-b768-4123-97a5-03d77169694e)
+
+![Screenshot 2024-12-09 230001](https://github.com/user-attachments/assets/da4a7332-76eb-4416-9015-ae2ff6e7638d)
+
+![Screenshot 2024-12-09 230144](https://github.com/user-attachments/assets/656899ba-b2e4-40f3-8e14-fcdbf252ee0e)
+
+
