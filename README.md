@@ -6,6 +6,7 @@ Whether you’re managing customer details or handling actor records, our system
 
 Key Features
 User Authentication: Secure login system for accessing the application and managing data.
+
 Full CRUD Operations:
 Create: Add new customer and actor records with ease.
 Read: Retrieve and view existing records for comprehensive data analysis.
