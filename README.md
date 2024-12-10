@@ -34,7 +34,10 @@ Scalability: The system can be adapted and extended as your business grows or ne
 How It Works
 
 Login to the Database: The system requires user authentication to ensure secure access to the database.
+
 Access Data Management Features:
 Use the GUI to add, view, edit, and delete customer and actor data.
+
 The interface is designed to guide users through each operation with clear instructions and prompts.
+
 Handle Errors Gracefully: Encountered issues, such as attempting to delete records linked by foreign keys, are clearly communicated to the user with helpful error messages.
