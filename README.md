@@ -1,8 +1,4 @@
 # CustomerManagementSystem
-
-Here's a README.md file tailored for presenting your project as a product to potential users:
-
-Customer Management System with Database Connectivity
 Overview
 Welcome to the Customer Management System – a comprehensive Java application designed to streamline the management of customer and actor data. This application connects seamlessly to a MySQL database (using the Sakila sample database) and provides a robust user interface for performing essential CRUD (Create, Read, Update, Delete) operations.
 
