@@ -8,19 +8,31 @@ Key Features
 User Authentication: Secure login system for accessing the application and managing data.
 
 Full CRUD Operations:
+
 Create: Add new customer and actor records with ease.
+
 Read: Retrieve and view existing records for comprehensive data analysis.
+
 Update: Modify customer and actor details to keep data current.
+
 Delete: Safely remove records with appropriate error messages if data constraints are met.
+
 Enhanced User Interface: A modern, user-friendly GUI that improves productivity and makes interactions simple.
+
 Error Handling: Advanced error detection and handling for improved user experience and data integrity.
+
 Clear Documentation: Each function and class in the code is thoroughly documented, ensuring maintainability and ease of future updates.
 Benefits for Your Business
+
 Improved Data Management: Organize and maintain customer and actor records efficiently.
+
 Enhanced Productivity: With a streamlined user interface, staff can complete data operations faster.
+
 Reliability: Robust error-handling mechanisms to protect data integrity and minimize disruptions.
+
 Scalability: The system can be adapted and extended as your business grows or needs evolve.
 How It Works
+
 Login to the Database: The system requires user authentication to ensure secure access to the database.
 Access Data Management Features:
 Use the GUI to add, view, edit, and delete customer and actor data.
